@@ -1,30 +1,24 @@
+Or please visit following links to see published reports/dashboards  :
 
 Andhra Claim Amount:
-
 https://app.powerbi.com/view?r=eyJrIjoiN2NmNWU5YTYtMGYxMS00ZDNmLTk1ZjAtNzkwMjNhOWRlNzI0IiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 Call Center Analysis:
-
 https://app.powerbi.com/view?r=eyJrIjoiZWY0OWNlMjQtZDViNy00YjVhLWFlMzktNzUwM2Q3MWYwZDYyIiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 Customer retention:
-
 https://app.powerbi.com/view?r=eyJrIjoiMmJjMjkxMjAtZTk2Zi00NWYyLTg2N2ItODg0MTczMmUzMGU4IiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 Retail Sales:
-
 https://app.powerbi.com/view?r=eyJrIjoiODJmNzNhNWQtMWE2Mi00NTFlLTgyYmYtZjc3OGU3YjEyMjdkIiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 Credit Card Fraud Analysis:
-
 https://app.powerbi.com/view?r=eyJrIjoiZTQ5N2ZiNjQtN2ExNy00MWE1LWFjYTctMTJkYTQ1MTAxNjVjIiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 HR Analysis:
-
 https://app.powerbi.com/view?r=eyJrIjoiNjkyMzM3MTEtYmM1Yi00MDE1LTgzMmUtZDQ5ZWMwMWFkMTA1IiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 Excelr Project 48:
-
 https://app.powerbi.com/view?r=eyJrIjoiZmYxNDgxZWUtNGIyZi00ZDg5LWJiMjctYjRhYzAzZDhhZWIyIiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 ExcelR Project 39:
