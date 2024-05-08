@@ -18,11 +18,10 @@ https://app.powerbi.com/view?r=eyJrIjoiZTQ5N2ZiNjQtN2ExNy00MWE1LWFjYTctMTJkYTQ1M
 HR Analysis:
 https://app.powerbi.com/view?r=eyJrIjoiNjkyMzM3MTEtYmM1Yi00MDE1LTgzMmUtZDQ5ZWMwMWFkMTA1IiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
-Excelr Project 48:
+Zapto Sales Analysis :
 https://app.powerbi.com/view?r=eyJrIjoiZmYxNDgxZWUtNGIyZi00ZDg5LWJiMjctYjRhYzAzZDhhZWIyIiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
-ExcelR Project 39:
-
+Bank Loan of Customers:
 https://app.powerbi.com/view?r=eyJrIjoiMTNhYzVjMGQtYzQwZC00ZmMzLWE5NjEtNzAwZDMxYWEyYWFlIiwidCI6IjkyZTgwMDVjLTBjZjYtNGUwZS05MDg3LTRjM2JhODY3NDg1YiJ9
 
 
